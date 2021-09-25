@@ -1,9 +1,10 @@
 import React from "react";
+import Planet from "./Planet";
 
 function Title(props) {
   return (
-    <div>
-      <h1>TITLE PAGE</h1>
+    <div className="menu">
+      <Planet />
     </div>
   );
 }
