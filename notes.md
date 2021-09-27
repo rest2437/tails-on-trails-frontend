@@ -12,8 +12,8 @@
 
 ## drop down menu
 
-- valunteer
-- community guidlines
+- volunteer
+- community guidelines
 - policy
 - settings
 - light/dark mode selector
