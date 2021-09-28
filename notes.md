@@ -1,10 +1,12 @@
 # title page
 
-- logo
-- single high def photo, or slideshow (slideshow may be better in home?)
+- [x] logo
+- [x] single high def photo, or slideshow (slideshow may be better in home?)
 - scroll down type
 
 # nav bar (global)
+
+- [x]
 
 ## Home icon (left side logo)
 
